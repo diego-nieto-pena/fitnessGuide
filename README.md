@@ -123,7 +123,197 @@ Let's get some info...
 ---
 ### ... more to come
 ### 📅 Day 4: Shoulders & Traps
-### 📅 Supplements: what, when, how, why.
+### 📅 Suplements: what, when, how, why.
 ### 📅 Mobility
 ### 📅 Stretching
 ### 📅 Receipts, healthy cooking
+
+
+# 🧾 How to Read a Nutrition Labels like a G
+This guide helps you understand the most important elements of a nutrition table, based on values **per 100g** unless stated otherwise.
+
+*Example 1 based on Lidl Greek Yogurt*
+![GreekYogurt](./PXL_20250710_203918054.jpg)
+
+---
+# 🥣 Greek Yogurt Nutrition Breakdown (Lidl Brand)
+
+![Greek Yogurt Label](./greek-yogurt-label.jpeg)
+
+This label gives the nutrition facts per **100g** and per **125g portion** (which equals 1 serving), along with %RI values (Reference Intake for an average adult based on 2000 kcal/day).
+
+---
+
+## 1. 📏 Reference Units
+
+| Unit           | Meaning                                   |
+|----------------|-------------------------------------------|
+| `ø/100 g`      | Nutritional values per 100g of product    |
+
+---
+
+## 2. 🔥 Calories
+
+| Energy (Energie) | per 100g         | 
+|------------------|------------------|
+| Energy           | 121 kcal |
+
+> ✅ Low-calorie option, good for cutting or maintaining weight.
+
+---
+
+## 3. 🧈 Fat (Fett)
+
+| Type                          | per 100g | 
+|-------------------------------|----------|
+| Total Fat (Fett)              | 10.0 g   |
+| Saturated Fat (gesättigte Fette) | 6.6 g    | 
+
+> ⚠️ Saturated fat is quite high — 42% of daily allowance per serving.
+
+---
+
+## 4. 🍞 Carbohydrates (Kohlenhydrate)
+
+| Type             | per 100g | 
+|------------------|----------|
+| Total Carbs      | 3.2 g    |
+| of which Sugars  | 3.2 g    |
+
+> ✅ Very low in sugar and carbs – suitable for low-carb diets.
+
+---
+
+## 5. 🥚 Protein (Eiweiß)
+
+| Protein | per 100g | 
+|---------|----------|
+|         | 4.6 g    |
+
+> 🟨 Moderate protein level – useful as a light snack, but not a high-protein source.
+
+---
+
+## 6. 🧂 Salt (Salz)
+
+| Salt | per 100g |
+|------|----------|
+|      | 0.10 g   |
+
+> ✅ Very low in salt.
+
+---
+
+## 📋 Quick Health Checklist
+
+- [x] Low in calories  
+- [x] Low in sugar  
+- [x] Low in salt  
+- [ ] High in protein (moderate only)  
+- [ ] Low in saturated fat (⚠️ high at 42% RI)
+
+---
+
+## 📦 Serving Size Info
+
+- One container = **8 portions** of **125g**
+- Total product weight = **1,000g**
+
+> 🧮 For tracking calories/macros, multiply per-portion values by number of servings eaten.
+
+---
+
+
+# 🧀 GAZİ Grilled Cheese Nutrition Breakdown (per 100g)
+
+![GAZI Grilled Cheese Label](./gazi-grilled-cheese-label.jpeg)
+
+This grilled cheese product is **energy-dense**, high in **fat** and **protein**, and moderately salty. Here’s how to read the label:
+
+---
+
+## 1. 📏 Reference Unit
+
+- All values are given per **100g**
+- Use this to calculate actual intake based on your portion size.
+
+---
+
+## 2. 🔥 Calories
+
+| Energy (Energie) | Value         |
+|------------------|---------------|
+| Brennwert        | 1342 kJ / 323 kcal |
+
+> 🧠 This is a **high-calorie product** — use in moderation if your goal is weight loss or calorie control.
+
+---
+
+## 3. 🧈 Fat (Fett)
+
+| Type                            | Value   |
+|---------------------------------|---------|
+| Total Fat (Fett)                | 25.0 g  |
+| Saturated Fat (gesättigte FS)  | 16.7 g  |
+
+> ⚠️ Very high in saturated fat – more than half of the recommended daily intake per 100g.
+
+---
+
+## 4. 🍞 Carbohydrates (Kohlenhydrate)
+
+| Type           | Value |
+|----------------|-------|
+| Total Carbs    | 1.0 g |
+| of which Sugar | 1.0 g |
+
+> ✅ Very low in carbs and sugar – suitable for low-carb or ketogenic diets.
+
+---
+
+## 5. 🥚 Protein (Eiweiß)
+
+| Protein | Value  |
+|---------|--------|
+|         | 23.5 g |
+
+> 💪 High-protein cheese – great for muscle support and satiety.
+
+---
+
+## 6. 🧂 Salt (Salz)
+
+| Salt | Value |
+|------|-------|
+|      | 2.4 g |
+
+> ⚠️ High in salt – over 40% of daily recommended intake per 100g.
+
+---
+
+## 📋 Quick Health Checklist
+
+- [x] High protein  
+- [ ] Low fat  
+- [ ] Low saturated fat (⚠️ very high!)  
+- [x] Low sugar  
+- [ ] Low salt (⚠️ quite salty)  
+- [ ] Low calorie (⚠️ energy-dense)
+
+---
+
+## 🌱 Bonus: Label Observations
+
+- ♻️ Packaging made from **80% recycled paper**
+- ❌ Ohne Gentechnik = **GMO-free**
+- 🔗 Offers preparation tips at **www.gazi.de**
+
+---
+
+## 🧠 Summary
+
+GAZi Grillkäse is a **high-fat**, **high-protein**, **low-carb** cheese ideal for grilling. Enjoy in moderation due to the high calorie, saturated fat, and salt content. Best suited for keto or high-protein diets — not ideal for weight-loss goals without portion control.
+
+---
+
+> Want to compare this label side-by-side with the Greek yogurt or nut butter? Let me know, and I’ll build you a comparative table!
