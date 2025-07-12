@@ -67,6 +67,7 @@ Let's get some info...
 
 ---
 
+#  At the GYM
 
 ## ROUTINES
 
@@ -128,31 +129,19 @@ Let's get some info...
 ### 📅 Stretching
 ### 📅 Receipts, healthy cooking
 
+---
 
-# 🧾 How to Read a Nutrition Labels like a G
+---
+#  🏠 At home
+
+## 🧾 How to Read a Nutrition Labels like a real G
 This guide helps you understand the most important elements of a nutrition table, based on values **per 100g** unless stated otherwise.
 
-*Example 1 based on Lidl Greek Yogurt*
-![GreekYogurt](./PXL_20250710_203918054.jpg)
+### 🥣 Example 1: Greek Yogurt Nutrition Breakdown (Lidl Brand)
+<img src="./PXL_20250710_203918054.jpg" alt="GreekYogurt" width="300" height="200"/>
 
 ---
-# 🥣 Greek Yogurt Nutrition Breakdown (Lidl Brand)
-
-![Greek Yogurt Label](./greek-yogurt-label.jpeg)
-
-This label gives the nutrition facts per **100g** and per **125g portion** (which equals 1 serving), along with %RI values (Reference Intake for an average adult based on 2000 kcal/day).
-
----
-
-## 1. 📏 Reference Units
-
-| Unit           | Meaning                                   |
-|----------------|-------------------------------------------|
-| `ø/100 g`      | Nutritional values per 100g of product    |
-
----
-
-## 2. 🔥 Calories
+#### 2. 🔥 Calories
 
 | Energy (Energie) | per 100g         | 
 |------------------|------------------|
@@ -162,7 +151,7 @@ This label gives the nutrition facts per **100g** and per **125g portion** (whic
 
 ---
 
-## 3. 🧈 Fat (Fett)
+#### 3. 🧈 Fat (Fett)
 
 | Type                          | per 100g | 
 |-------------------------------|----------|
@@ -173,7 +162,7 @@ This label gives the nutrition facts per **100g** and per **125g portion** (whic
 
 ---
 
-## 4. 🍞 Carbohydrates (Kohlenhydrate)
+#### 4. 🍞 Carbohydrates (Kohlenhydrate)
 
 | Type             | per 100g | 
 |------------------|----------|
@@ -184,7 +173,7 @@ This label gives the nutrition facts per **100g** and per **125g portion** (whic
 
 ---
 
-## 5. 🥚 Protein (Eiweiß)
+#### 5. 🥚 Protein (Eiweiß)
 
 | Protein | per 100g | 
 |---------|----------|
@@ -194,7 +183,7 @@ This label gives the nutrition facts per **100g** and per **125g portion** (whic
 
 ---
 
-## 6. 🧂 Salt (Salz)
+#### 6. 🧂 Salt (Salz)
 
 | Salt | per 100g |
 |------|----------|
@@ -204,74 +193,56 @@ This label gives the nutrition facts per **100g** and per **125g portion** (whic
 
 ---
 
-## 📋 Quick Health Checklist
+#### 📋 Resume
 
 - [x] Low in calories  
 - [x] Low in sugar  
 - [x] Low in salt  
 - [ ] High in protein (moderate only)  
-- [ ] Low in saturated fat (⚠️ high at 42% RI)
+- [ ] Low in saturated fat 
 
 ---
 
-## 📦 Serving Size Info
-
-- One container = **8 portions** of **125g**
-- Total product weight = **1,000g**
-
-> 🧮 For tracking calories/macros, multiply per-portion values by number of servings eaten.
-
----
-
-
-# 🧀 GAZİ Grilled Cheese Nutrition Breakdown (per 100g)
-
-![GAZI Grilled Cheese Label](./gazi-grilled-cheese-label.jpeg)
+### 🥣 Example 2: 🧀 GAZİ Grilled Cheese Nutrition Breakdown
+<img src="./PXL_20250710_203952037.jpg" alt="GrilledCheese" width="300" height="200"/>
 
 This grilled cheese product is **energy-dense**, high in **fat** and **protein**, and moderately salty. Here’s how to read the label:
 
 ---
 
-## 1. 📏 Reference Unit
+#### 2. 🔥 Calories
 
-- All values are given per **100g**
-- Use this to calculate actual intake based on your portion size.
-
----
-
-## 2. 🔥 Calories
-
-| Energy (Energie) | Value         |
+| Energy (Energie) | per 100g          |
 |------------------|---------------|
-| Brennwert        | 1342 kJ / 323 kcal |
+| Brennwert        | 323 kcal |
 
-> 🧠 This is a **high-calorie product** — use in moderation if your goal is weight loss or calorie control.
+> 🧠 This is a **high-calorie product**.
 
 ---
 
-## 3. 🧈 Fat (Fett)
+#### 3. 🧈 Fat (Fett)
 
 | Type                            | Value   |
 |---------------------------------|---------|
 | Total Fat (Fett)                | 25.0 g  |
 | Saturated Fat (gesättigte FS)  | 16.7 g  |
 
-> ⚠️ Very high in saturated fat – more than half of the recommended daily intake per 100g.
+> ⚠️ Very high in saturated fat.
 
 ---
 
-## 4. 🍞 Carbohydrates (Kohlenhydrate)
+#### 4. 🍞 Carbohydrates (Kohlenhydrate)
 
 | Type           | Value |
 |----------------|-------|
 | Total Carbs    | 1.0 g |
 | of which Sugar | 1.0 g |
 
-> ✅ Very low in carbs and sugar – suitable for low-carb or ketogenic diets.
+> ✅ Very low in carbs and sugar.
 
 ---
 
-## 5. 🥚 Protein (Eiweiß)
+#### 5. 🥚 Protein (Eiweiß)
 
 | Protein | Value  |
 |---------|--------|
@@ -281,7 +252,7 @@ This grilled cheese product is **energy-dense**, high in **fat** and **protein**
 
 ---
 
-## 6. 🧂 Salt (Salz)
+#### 6. 🧂 Salt (Salz)
 
 | Salt | Value |
 |------|-------|
@@ -291,7 +262,7 @@ This grilled cheese product is **energy-dense**, high in **fat** and **protein**
 
 ---
 
-## 📋 Quick Health Checklist
+#### 📋 Resume
 
 - [x] High protein  
 - [ ] Low fat  
@@ -299,21 +270,172 @@ This grilled cheese product is **energy-dense**, high in **fat** and **protein**
 - [x] Low sugar  
 - [ ] Low salt (⚠️ quite salty)  
 - [ ] Low calorie (⚠️ energy-dense)
+---
+# 🧾 Macro Tracking for Mortals  
+
+This is how you **track your macros**, **weigh your food**, and **conquer your goals**.
+
+Whether you're here to:
+- 🏋️ Build muscle  
+- 🧨 Burn fat  
+- 🧘‍♀️ Not feel guilty eating  
 
 ---
 
-## 🌱 Bonus: Label Observations
+## 🧠 The Macro Basics
 
-- ♻️ Packaging made from **80% recycled paper**
-- ❌ Ohne Gentechnik = **GMO-free**
-- 🔗 Offers preparation tips at **www.gazi.de**
+**Macros = Macronutrients** =  
+- **Protein** (4 kcal/g)  = 1 protein gram = 4 calories
+- **Carbs** (4 kcal/g)  = 1 carb gram = 4 calories
+- **Fat** (9 kcal/g)  = 1 fat gram = 9 calories
 
----
-
-## 🧠 Summary
-
-GAZi Grillkäse is a **high-fat**, **high-protein**, **low-carb** cheese ideal for grilling. Enjoy in moderation due to the high calorie, saturated fat, and salt content. Best suited for keto or high-protein diets — not ideal for weight-loss goals without portion control.
+> ⚠️ TL;DR: **Fat is more than twice the calories of carbs or protein.** i.e. That peanut butter hits harder than you think.
 
 ---
 
-> Want to compare this label side-by-side with the Greek yogurt or nut butter? Let me know, and I’ll build you a comparative table!
+## 🔍 🍲 Recipe 1: Veggies soup with chicken breast & fries
+
+### 🛒 Ingredients:
+- 🥦 **150g Cauliflower**  
+- 🌱 **20g Edamame**  
+- 🌿 **15g Peas**  
+- 🍅 **15g Tomato**  
+- 🧅 **15g Onion**  
+- 🍗 **300g Chicken Breast**  
+- 🍟 **30g Fries (cooked)**  
+- 🧂 Salt, pepper, garlic, spicy stuff
+---
+- Carbs (Vegetables): 
+	- Cauliflower: source of good carbs 👼
+	- ⚠️ Edamame: high on protein (you get 12 protein grams per 100 Edamame grams)
+	-  peas, tomato, onion: tasty
+- Protein: 
+	- Chicken breast: you get ~31 protein grams /100 grams and only 124 calories 💪
+- Fat (Fries):
+	-  ~160 calories/100 g in average; mostly Saturated Fat and evil carbs 😈
+	-  just to make it tasty
+
+<img src="./soup.png" alt="Soup" width="300"/>
+
+---
+
+### 🔥 Instructions:
+
+1. Toss all the veggies and chicken into a pressure cooker.
+2. Add salt, pepper, garlic, and a touch of spice (or don’t 👸).
+3. Cook for **30–40 mins** on pressure setting.
+4. ⚠️CAREFULLY blend the veggies **using the cooking water**.
+5. Shred the chicken and stir it into the blended soup.
+6. Top with as many fries as your macro budget allows.
+7. Enjoy. 
+
+---
+
+### ⚖️ Nutrition Facts (1 Serving – All Ingredients Combined)
+
+| **Ingredient**         | **Amount (g)** | **Protein (g)** | **Carbs (g)** | **Fat (g)** | **Calories** |
+|------------------------|----------------|------------------|----------------|--------------|----------------|
+| Chicken breast         | 300            | 93.00            | 0.00           | 10.80        | 495.00         |
+| Cauliflower            | 150            | 2.85             | 7.50           | 0.45         | 37.50          |
+| Edamame                | 20             | 2.20             | 1.60           | 1.00         | 24.20          |
+| Peas                   | 15             | 0.81             | 2.10           | 0.06         | 12.15          |
+| Tomato                 | 15             | 0.14             | 0.58           | 0.03         | 2.70           |
+| Onion                  | 15             | 0.17             | 1.40           | 0.02         | 6.00           |
+| Fries (cooked)         | 30             | 0.78             | 10.50          | 4.50         | 93.60          |
+| **TOTAL**              | **545g**       | **99.95 g**      | **23.68 g**    | **16.86 g**  | **671.15 kcal** |
+
+> 💪 That’s **almost 100g of protein**, just 24g carbs, and 670 kcal for the whole thing.  
+> Add fries freely if you're bulking. 
+---
+
+### 💪 Muscle Gain Version
+
+| Ingredient        | Amount (g) |
+|-------------------|------------|
+| Chicken breast    | 400        |
+| Cauliflower       | 200        |
+| Edamame           | 30         |
+| Peas              | 20         |
+| Tomato            | 20         |
+| Onion             | 20         |
+| Fries             | 60         |
+| **Total Weight**  | **750g**   |
+
+> 🍗 Heavy on protein, moderate carbs, plenty of calories.  
+> 🧠 Perfect post-workout meal. You'll feel like you could bench a bear.
+
+---
+
+### 🥦 Fat Loss Version
+
+| Ingredient        | Amount (g) |
+|-------------------|------------|
+| Chicken breast    | 200        |
+| Cauliflower       | 150        |
+| Edamame           | 15         |
+| Peas              | 10         |
+| Tomato            | 15         |
+| Onion             | 15         |
+| Fries             | 10         |
+| **Total Weight**  | **415g**   |
+
+> 🥣 Lean, clean, and still full of gains.  
+> 🧂 Minimal fries. Sorry, but shredded > salted.
+
+---
+
+### ⚖️ Notes:
+
+- **Muscle Gain**: more chicken, more edamame, and extra fries for energy surplus and muscle repair.
+- **Fat Loss**: reduced fat and fries, leaner chicken portion, still keeps protein high to preserve muscle mass.
+- Adjust portion sizes to fit your personal daily calorie and macro goals.
+
+---
+
+## Bonus - 🥑 Half Hass Avocado + High-Protein Sandwich 
+
+### 🥑 1. Half Hass Avocado
+
+| Portion Size | Protein (g) | Carbs (g) | Fat (g) | Calories (kcal) |
+|--------------|-------------|-----------|---------|-----------------|
+| ~100g (1/2 large Hass) | 2.0         | 8.5       | 15.0    | ~160             |
+
+> 🧠 Good fats 👼, fiber-rich, and makes your meals look bougie.
+
+---
+
+### 🥯 2. High-Protein Sandwich
+
+- 1 sesame bagel (~100g)
+- 2 slices of lean ham (~50g)
+- 1 slice high-protein cheese (~25g)
+
+| Ingredient         | Weight (g) | Protein (g) | Carbs (g) | Fat (g) | Calories |
+|--------------------|------------|-------------|-----------|---------|----------|
+| Sesame Bagel       | 100        | 9.0         | 48.0      | 3.0     | 265      |
+| Ham (2 slices)     | 50         | 10.0        | 0.5       | 2.5     | 75       |
+| High-Protein Cheese| 25         | 9.0         | 0.5       | 5.0     | 100      |
+| **TOTAL**          | **175**    | **28.0**    | **49.0**  | **10.5**| **440**  |
+
+> 💪 28g of protein in one sandwich? Not bad.  
+
+---
+
+## 🔄 Full Meal  (Estimated Total)
+
+| Item                 | Protein (g) | Carbs (g) | Fat (g) | Calories |
+|----------------------|-------------|-----------|---------|----------|
+| Veggie Chicken Soup  | 100         | 24        | 17      | 670      |
+| Sandwich             | 28          | 49        | 10.5    | 440      |
+| Avocado (1/2)        | 2           | 8.5       | 15      | 160      |
+| **TOTAL**            | **130g**    | **81.5g** | **42.5g** | **1270 kcal** |
+
+> 📦 Macro-packed, solid for muscle gain or high-energy refuel.  
+
+### 🧠 Final Thoughts:
+
+- Perfect post-workout meal.  
+- You can prepare this for 2 or 3 days, divide and freeze leftovers. microwave later only the portion you will eat (will easy if you divide it in advance) . Feel like a meal-prep god.  
+- Fries = optional, but life’s too short to be that strict.
+
+---
