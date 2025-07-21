@@ -719,3 +719,138 @@ Whether you're here to:
 - **Kale** → *Spinach*  
 - **Balsamic vinegar** → *Apple cider vinegar*  
 - **Honey** → *Maple syrup*  
+# Supplements
+
+## 🧠 Creatine & Protein Shakes
+
+## 💥 CREATINE MONOHYDRATE
+
+### ❓ Why Use Creatine?
+- Increases **ATP production**, your muscles’ primary energy source during high-intensity exercise.
+- Boosts **strength**, **power**, and **muscle volume**.
+- Helps with **recovery**, **hydration**, and **brain performance** (Ref.)[https://pmc.ncbi.nlm.nih.gov/articles/PMC6093191/].
+
+### 🕒 When to Take Creatine
+- 📅 **Daily** — consistency matters more than timing.
+- 🏋️ **Best time**: After workout (post-workout) for enhanced uptake.
+- Can also be taken pre-workout or with meals if preferred.
+
+### 💧 How to Take Creatine
+- ✅ **Type**: Creatine monohydrate is the most researched and effective.
+- ⚖️ **Dosage:** 5g per day.
+- 💦 Mix with water or any drink containing carbs for better absorption.
+- 🚰 **Hydration is key!** Drink extra water daily to support creatine uptake.
+
+### 🔁 Tips & Notes
+- 🧪 Backed by 1,000+ studies — safe for long-term use in healthy individuals.
+- ❌ No need to cycle off.
+- ⚠️ Bloating? Reduce to 3g/day or spread out the dose.
+
+---
+
+## 🥤 PROTEIN SHAKES
+
+### ❓ Why Use Protein Shakes?
+- Helps you reach your **daily protein goal** (especially if you train hard).
+- Supports **muscle growth**, **repair**, and **satiety**.
+- Convenient — ideal for **post-workout** or busy schedules.
+
+### 🕒 When to Take Protein
+- ⏱️ **Post-workout**: Within 30–60 minutes for optimal recovery (muscle protein synthesis).
+- 💤 **Before bed**: Casein protein can support overnight recovery.
+- 🍳 **When meals lack protein**: Use as a supplement, not a replacement.
+
+### 🍶 How to Take Protein
+- ✅ **Types**:
+  - **Whey isolate**: Fast-digesting, high bioavailability.
+  - **Whey concentrate**: More budget-friendly, slightly slower absorption.
+  - **Casein**: Slow digesting — ideal before bed.
+  - **Plant-based** (pea, rice, hemp): Great for dairy-free/vegan diets.
+- ⚖️ **Dosage**:
+  - 20–30g per serving is ideal for most people.
+  - Adjust based on total daily protein target (~1.6–2.2g per kg body weight).
+
+### 🥄 How to Mix It
+- Mix with:
+  - Water (faster digestion)
+  - Milk or plant milk (adds calories, creaminess)
+  - In smoothies (with banana, peanut butter, oats, etc.)
+
+### 🔁 Tips & Notes
+- Look for a brand with:
+  - **>20g protein per scoop**
+  - **<3g sugar**
+  - No unnecessary fillers or proprietary blends.
+- Digestive issues? Try hydrolyzed whey or plant blends.
+
+---
+
+## ⚔️ Creatine vs. Protein — Quick Comparison
+
+| Feature         | Creatine                      | Protein Shake                 |
+|----------------|-------------------------------|-------------------------------|
+| Goal           | Strength, Power, Muscle Volume| Muscle Repair & Growth        |
+| Timing         | Daily, ideally post-workout   | Post-workout, anytime needed  |
+| Main Benefit   | Cellular energy + water retention | Amino acids for tissue repair|
+| Dose           | 5g/day                       | 20–30g/serving                |
+| Cycle Needed?  | ❌ No                          | ❌ No                          |
+| Stack Together?| ✅ Yes                         | ✅ Yes                         |
+
+---
+
+> 📌 **Pro Tip:** Use both together **post-workout** for a powerful recovery stack:  
+> - 5g creatine  
+> - ~25g protein  
+> - Mixed with water or milk and a carb source (like banana or oats).
+---
+# 🧠 Supplement Guide: Creatine & Protein Shakes
+
+## 💊 DAILY SUPPLEMENT ROUTINE
+
+### 🕖 Morning (upon waking)
+- ✅ **Multivitamin** (optional but useful)  
+  Supports micronutrient coverage.
+- ✅ **Omega-3 (Fish Oil)** — *1–2g EPA/DHA*  
+  Reduces inflammation, supports heart and joint health.
+- ✅ **Creatine Monohydrate** — *5g*  
+  (If not taken later post-workout. Consistency is key.)
+- ✅ **Vitamin D3** — *2,000–4,000 IU*  
+  Especially if you're not getting sunlight.
+
+---
+
+### 🏋️ Pre-Workout (30–60 min before training)
+- ✅ **Caffeine** — *100–200mg*  
+  Improves focus and performance (if tolerated).
+- ✅ **Creatine** — *5g* (if not taken earlier)
+- ✅ **BCAA/EAA** — *5–10g* (optional)  
+  Useful if training fasted or on low protein intake.
+
+---
+
+### 🧃 Post-Workout (within 30–60 min)
+- ✅ **Protein Shake** — *20–30g whey isolate or plant protein*  
+  Supports muscle recovery and growth.
+- ✅ **Creatine Monohydrate** — *5g* (if not taken earlier)
+- ✅ **Fast carbs** — *banana, oats, or dextrose* (optional)  
+  Helps replenish glycogen and support creatine uptake.
+
+> ✅ **STACK TIP:**  
+> Mix **protein + creatine + banana + oats** in a shaker or blender for a full recovery drink.
+
+---
+
+### 🌙 Before Bed
+- ✅ **Casein Protein or Greek Yogurt** — *20–30g protein*  
+  Supports overnight muscle repair.
+- ✅ **Magnesium Glycinate** — *200–400mg* (optional)  
+  Helps sleep quality and muscle relaxation.
+- ✅ **Zinc** — *10–30mg*  
+  Supports testosterone, recovery, and immunity.
+
+---
+
+## 💬 Notes:
+- 💧 **Hydration is critical** for creatine to work effectively. Aim for 3+ liters of water per day.
+- 📅 You don’t need to **cycle creatine** — daily use is safe and more effective.
+- 🕒 Timing matters **less than consistency**, especially with creatine and vitamin D.
