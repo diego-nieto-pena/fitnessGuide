@@ -439,3 +439,283 @@ Whether you're here to:
 - Fries = optional, but life’s too short to be that strict.
 
 ---
+### 🥗 10 Minute Veggie Omelet  
+**Calories:** 390 kcal  | **Protein:** 25g | **Carbs:** 35g | **Fat:** 15g  
+**Calorie Level:** `Medium`  
+
+**🧾 Ingredients:**  
+- Coconut oil   
+- 1/4 cup chopped tomatoes  
+- 1 cup fresh spinach leaves  
+- 1 cup chopped broccoli  
+- 4 large egg whites, beaten  
+- 2 tbsp (**tablespoon**) crumbled protein cheese  
+- 1/4 tsp cayenne pepper  
+- 2 slices Ezekiel Whole Grain bread, toasted  
+
+**👨‍🍳 Instructions:**  
+1. Heat a nonstick skillet on medium heat. Coat with coconut oil.  
+2. Add tomatoes, spinach, broccoli, and cayenne pepper. Sauté for 4 minutes.  
+3. Pour in beaten egg whites over veggies and sprinkle protein cheese on top.  
+4. Cook 3–4 minutes, flip the omelet, and cook an additional 2 minutes.  
+5. Serve hot with toasted bread.  
+
+<img src="./eggs_1.png" alt="eggs" width="300" height="200"/>
+
+**🔁 Substitutions:**  
+- **Bread** → *Any whole grain*  
+- **Protein cheese** → *Feta or low-fat cottage cheese*  
+- **Coconut oil** → *Olive oil or butter*  
+---
+### 🥗 Sweet & Sour Chicken  
+**Calories:** 315 kcal  | **Protein:** 43g | **Carbs:** 21g | **Fat:** 7g  
+**Calorie Level:** `Medium`  
+
+**🧾 Ingredients:**  
+- 1.25 lb chicken breast (cubed)  
+- 3 egg whites  
+- 1 tbsp coconut oil  
+- 2/3 cup tomato sauce  
+- 2 tbsp red chili garlic pepper sauce (sriracha)  
+- 3 tbsp rice vinegar  
+- 2 tbsp orange juice  
+- 1 tbsp soy sauce  
+- 1 tbsp minced garlic  
+- 1/4 tsp cayenne pepper  
+- Fresh scallions or green onions, chopped  
+- Sesame seeds  
+
+**👨‍🍳 Directions:**  
+1. Cube the chicken and coat with cayenne and egg whites.  
+2. Brown in a skillet with coconut oil, remove before fully cooked.  
+3. Simmer the soil sauce and other ingredients in the same skillet.  
+4. Return chicken to skillet and coat with sauce. Cook 6–8 min until done.  
+5. Garnish with sesame seeds and scallions.  
+
+<img src="./2_sweet_chicken.png" alt="chicken" width="300" height="200"/>
+
+**🔁 Substitutions:**  
+- **Coconut oil** → *Olive oil or avocado oil*  
+- **Red chili garlic sauce** → *Chili paste*  
+---
+### 🥗 Tuna Salad  
+**Calories:** 245 kcal  | **Protein:** 22g | **Carbs:** 10g | **Fat:** 15g  
+**Calorie Level:** `Low`  
+
+**🧾 Ingredients:**  
+- 1 tuna can (~160 gr)
+- 1/3 cup diced green onion  
+- 1 chopped celery stalk  
+- 2 tbsp pickle relish  
+- 3 tbsp Greek yogurt  
+- 2 tsp mustard  
+- 1/2 tsp chili flakes  
+- Juice from half a lemon  
+- Salt & pepper to taste  
+- Cilantro for garnish  
+
+**👨‍🍳 Directions:**  
+1. Drain tuna and mix all ingredients in a bowl.  
+2. Mash with a fork and season to taste.  
+3. Serve on salad or in a wrap.  
+
+<img src="./3_tuna.png" alt="tuna" width="300" height="200"/>
+
+**🔁 Substitutions:**  
+- **Greek yogurt** → *Low-fat mayo or cottage cheese*  
+- **Mustard** → *Yellow mustard or spicy brown*  
+- **Pickle relish** → *Chopped pickles*  
+---
+### 🥗 Southwestern Chicken Quesadillas  
+**Calories:** 250 kcal  | **Protein:** 48g | **Carbs:** 27g | **Fat:** 13g  
+**Calorie Level:** `Medium`  
+
+**🧾 Ingredients:**  
+- 1/4 cup hummus  
+- 300gr raw chicken breast  
+- 4 small whole wheat tortillas  
+- 1 small avocado, sliced  
+- 4 tbsp protein cheese  
+- 1/2 cup black beans  
+- 1/2 cup chopped red onion  
+- 2 tbsp minced garlic  
+- Cilantro and salsa for garnish  
+
+**👨‍🍳 Directions:**  
+1. Cook garlic and onions in a skillet.  
+2. Add thinly cut chicken and cook through.  
+3. Spread hummus on tortillas and layer chicken, beans, cheese, avocado, and cilantro.  
+4. Fold tortillas and grill on skillet until crispy.  
+5. Serve with salsa and Greek yogurt if desired.  
+
+<img src="./4_tortillas.png" alt="tortillas" width="300" height="200"/>
+
+**🔁 Substitutions:**  
+- **Protein cheese** → *Mozzarella or cheddar*  
+- **Whole wheat tortillas** → *Low-carb wraps*  
+- **Hummus** → *Mashed beans or Greek yogurt spread*  
+---
+### 🥗 Citrus Shrimp with Sautéed Veggies  
+**Calories:** 250 kcal  | **Protein:** 42g | **Carbs:** 16g | **Fat:** 7g  
+**Calorie Level:** `Medium`  
+
+**🧾 Ingredients:**  
+- 1 lb shrimp, peeled  
+- 3 zucchinis, chopped  
+- 15 grams Spinach, chopped  
+- 1 onion, chopped  
+- 4 carrots, chopped  
+- 1 tbsp coconut oil  
+- 2 tbsp lemon juice  
+- 1 tbsp apple cider vinegar  
+- Juice from 1/2 orange  
+- Salt-free seasoning and lemon pepper  
+
+**👨‍🍳 Directions:**  
+1. Sauté onion and garlic in coconut oil.  
+2. Add veggies and cook until soft.  
+3. Add shrimp and spices, cook until pink.  
+4. Add lemon-orange sauce and cook 1 more minute.  
+5. Serve with fresh lemon wedges.  
+
+<img src="./5_shripms.png" alt="shrimp" width="300" height="200"/>
+
+**🔁 Substitutions:**  
+- **Shrimp** → *Chicken or tofu*  
+- **Coconut oil** → *Avocado oil or olive oil*  
+- **Zucchini** → *Yellow squash or eggplant*  
+---
+### 🥗 Pesto Pita Pizza  
+**Calories:** 269 kcal  | **Protein:** 27g | **Carbs:** 12g | **Fat:** 12g  
+**Calorie Level:** `Medium`  
+
+**🧾 Ingredients:**  
+- 160 gr cooked chicken  
+- 1 whole wheat pita  
+- 1/4 cup diced cucumber  
+- 1/4 cup diced tomatoes  
+- 1/8 cup black olives  
+- 1/8 cup parmesan cheese  
+- Basil pesto  
+
+**👨‍🍳 Directions:**  
+1. Toast pita lightly.  
+2. Top with pesto, then chicken and veggies.  
+3. Sprinkle olives and parmesan on top.  
+4. Bake for 4 minutes until cheese melts.  
+
+<img src="./6_pita_p.png" alt="pita" width="300" height="200"/>
+
+**🔁 Substitutions:**  
+- **Pita** → *Flatbread or arabic bread*  
+- **Parmesan** → *Feta or mozzarella*  
+- **Basil pesto** → *Dried tomato spread*  
+---
+### 🥗 Spicy Orange Chicken  
+**Calories:** 259 kcal  | **Protein:** 42g | **Carbs:** 17g | **Fat:** 2g  
+**Calorie Level:** `Medium`  
+
+**🧾 Ingredients:**  
+- 1 lbs chicken breast  
+- 1/4 cup soy sauce  
+- 1/3 cup rice wine vinegar  
+- 3 tbsp red pepper garlic sauce  
+- 1/4 cup raw honey  
+- 2 tbsp sugar-free orange marmalade  
+- Juice from 3 oranges  
+- 1 tbsp tapioca starch  
+- Sesame seeds  
+- Green onions  
+
+**👨‍🍳 Directions:**  
+1. Mix soy sauce, vinegar, juice, marmalade, honey, and starch for sauce.  
+2. Chop chicken and cook 90% through in skillet.  
+3. Add sauce to pan and cook until thickened.  
+4. Top with sesame seeds and green onions.  
+
+<img src="./7_orange_chk.png" alt="orange chicken" width="300" height="200"/>
+
+**🔁 Substitutions:**  
+- **Orange marmalade** → *Orange with honey*  
+- **Tapioca starch** → *Bread powder*  
+---
+### 🥗 Spinach Chicken  
+**Calories:** 450 kcal  | **Protein:** 30g | **Carbs:** 35g | **Fat:** 18g  
+**Calorie Level:** `High`  
+
+**🧾 Ingredients:**  
+- 1 lb ground chicken  
+- 1 onion, diced  
+- 2 cloves garlic, minced  
+- 1 egg white  
+- 1 tbsp coconut/olive/avocado oil  
+- 2 tbsp tomato paste  
+- 1/2 cup tomato sauce  
+- 1 cup fresh spinach  
+- 2 tbsp cilantro  
+- 2 tbsp chopped basil  
+
+**👨‍🍳 Directions:**  
+1. Sauté onion and garlic.  
+2. Mix ground chicken with egg white, herbs, spinach, onion and garlic.  
+3. Form into balls and place in baking dish.  
+4. Top with sauce and bake 20 min at 200°C.  
+
+<img src="./8_spinachchk.png" alt="spinach chicken" width="300" height="200"/>
+
+**🔁 Substitutions:**  
+- **Ground chicken** → *Ground turkey or tofu*  
+- **Tomato paste** → *Crushed tomato or ketchup (less ideal)*   
+---
+### 🥗 Avocado-Ranch Salad  
+**Calories:** 207 kcal  | **Protein:** 7g | **Carbs:** 27g | **Fat:** 9g  
+**Calorie Level:** `Low`  
+
+**🧾 Ingredients:**  
+- 1 avocado  
+- 1/2 cup Greek yogurt  
+- 1 tbsp white vinegar  
+- 1/2 tsp garlic powder  
+- 1/4 tsp salt & pepper  
+- 8 cups baby spinach  
+- 1 red bell pepper  
+- 1 can chickpeas  
+
+**👨‍🍳 Directions:**  
+1. Blend half avocado with yogurt, dill, vinegar, and seasoning.  
+2. Chop remaining avocado and toss with spinach, pepper, chickpeas.  
+3. Coat with dressing and serve.  
+
+<img src="./9_avocado.png" alt="avocado" width="300" height="200"/>
+
+**🔁 Substitutions:**  
+- **Greek yogurt** → *Low-fat sour cream*  
+- **Chickpeas** → *White beans or black beans*  
+---
+### 🥗 Balsamic Chicken and Veggies  
+**Calories:** 269 kcal  | **Protein:** 27g | **Carbs:** 12g | **Fat:** 12g  
+**Calorie Level:** `Medium`  
+
+**🧾 Ingredients:**  
+- 3 tbsp olive/coconut/avocado oil  
+- 5 tbsp balsamic vinegar  
+- 1 tbsp honey  
+- 1/4 tsp red pepper  
+- 1 lb chicken breast  
+- 200 gr asparagus  
+- 1 cup shredded carrots  
+- 1 head kale  
+- 2 tomatoes  
+
+**👨‍🍳 Directions:**  
+1. Make dressing from vinegar, oil, honey, red pepper.  
+2. Cook chicken in skillet 6 min each side.  
+3. Sauté veggies and add remaining dressing.  
+4. Serve chicken over veggies and top with tomatoes.  
+
+<img src="./balsamic_chk.png" alt="avocado" width="300" height="200"/>
+
+**🔁 Substitutions:**  
+- **Kale** → *Spinach*  
+- **Balsamic vinegar** → *Apple cider vinegar*  
+- **Honey** → *Maple syrup*  
